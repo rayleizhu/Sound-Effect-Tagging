@@ -1,0 +1,7 @@
+*.zip
+*.pdf
+.ipynb_checkpoints/
+mp3
+__pycache__
+ckpt/
+
