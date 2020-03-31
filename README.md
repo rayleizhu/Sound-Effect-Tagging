@@ -14,4 +14,4 @@ Semantic annotation is a multi-label classification problem, where each label co
 For evaluation, you will predict the presence/absence of tags for each test sound. The evaluation metric is "Mean column-wise AUC".  AUC is the area under the ROC curve, which plots FPR vs TPR.  "Mean column-wise" computes the average of the AUCs for the tags.  To compute AUC, you will need to predict the score of each label (e.g., decision function value, probability, etc.) rather than the label.
 
 
-See [Soud Effects Tagging.ipynb](./Soud Effects Tagging.ipynb) for details
+See [Soud Effects Tagging.ipynb](https://github.com/rayleizhu/Sound-Effect-Tagging/blob/master/Sound%20Effects%20Tagging.ipynb) for details
